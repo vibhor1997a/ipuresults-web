@@ -1,0 +1,11 @@
+.card.collapse{
+  display: none;
+}
+
+.card.collapse.show{
+  display: flex;
+}
+
+.card.collapse{
+  margin-top: 0px !important;
+}
