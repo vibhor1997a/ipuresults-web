@@ -21,16 +21,21 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="description" content="The simplest way to check out your ipu university results. We have results of all programmes be it btech, bba, bca, mba, etc. Check yours now">
-  <meta name="keywords" content="ggsipu,ipuresults,ipuresults.xyz,www.ipuresults.xyz,ip results, ip university results,ipu btech results,ipu bba results,ggsipu results,ipu results,ipuresult,ipu result,ipu bba results, ipu bca results">
+  <meta name="description"
+    content="The simplest way to check out your ipu university results. We have results of all programmes be it btech, bba, bca, mba, etc. So, check yours today at ipuresults">
+  <meta name="keywords"
+    content="ggsipu,ipuresults,ipuresults.xyz,www.ipuresults.xyz,ip results, ip university results,ipu btech results,ipu bba results,ggsipu results,ipu results,ipuresult,ipu result,ipu bba results, ipu bca results,ipu result app,result app,ip university result app,check ip university rank">
   <meta name="author" content="Vibhor Agrawal">
   <meta name="distribution" content="India" />
+  <meta name="propeller" content="23d4ff530a7380c18ed9b9156034c383">
   <title>Ipuresults.xyz: Check your IP university results Online</title>
   <!-- Fonts and icons -->
-  <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:400,700|Material+Icons" />
+  <link rel="stylesheet" type="text/css"
+    href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:400,700|Material+Icons" />
   <!-- Material Kit CSS -->
   <link href="/theme/assets/css/material-kit.css?v=2.0.6" rel="stylesheet" />
   <link rel="stylesheet" href="/assets/css/style.css">
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
   <?php include 'g-analytics.php' ?>
 </head>
 
@@ -62,6 +67,7 @@
           </div>
         </div>
         <div id="result-container"></div>
+        <div id="ads-container"></div>
       </div>
     </div>
   </div>

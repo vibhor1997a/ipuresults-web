@@ -6,23 +6,33 @@
 
 
   <url>
-    <loc>https://www.ipuresults.xyz/</loc>
-    <lastmod>2019-09-24T16:32:51+00:00</lastmod>
+    <loc>https://ipuresults.xyz/</loc>
+    <lastmod>2019-10-12T06:36:51+00:00</lastmod>
     <priority>1.00</priority>
   </url>
   <url>
-    <loc>https://www.ipuresults.xyz/about</loc>
-    <lastmod>2019-09-24T16:32:51+00:00</lastmod>
+    <loc>https://ipuresults.xyz/about</loc>
+    <lastmod>2019-10-12T06:36:51+00:00</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://www.ipuresults.xyz/disclaimer</loc>
-    <lastmod>2019-09-24T16:32:51+00:00</lastmod>
+    <loc>https://ipuresults.xyz/disclaimer</loc>
+    <lastmod>2019-10-12T06:36:51+00:00</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://www.ipuresults.xyz/contact</loc>
-    <lastmod>2019-09-24T16:32:51+00:00</lastmod>
+    <loc>https://ipuresults.xyz/contact</loc>
+    <lastmod>2019-10-12T06:36:51+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://ipuresults.xyz/howto</loc>
+    <lastmod>2019-10-12T06:36:51+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://ipuresults.xyz/result/41311502715</loc>
+    <lastmod>2019-10-12T06:36:51+00:00</lastmod>
     <priority>0.80</priority>
   </url>
 
